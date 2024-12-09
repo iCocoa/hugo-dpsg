@@ -1,0 +1,3 @@
+[submodule "themes/src-hugo-dpsg"]
+	path = themes/src-hugo-dpsg
+	url = https://github.com/pfadfinder-konstanz/hugo-dpsg.git
